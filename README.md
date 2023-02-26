@@ -72,4 +72,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - Website [your-website.com](https://{your-web-site-link})
 - GitHub [@your-username](https://{github.com/bashkim2})
-- Twitter [https://twitter.com/dadinos6]([https://{twitter.com/dadinos6}])
+- Twitter [https://twitter.com/dadinos6]([@dadinos6}])
